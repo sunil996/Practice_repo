@@ -5,3 +5,8 @@ version 4
 vesion 5
 version 6
 version 7
+
+//error to be asked 
+PS C:\practise repo copy\practice_repo> git push -u origin master
+fatal: unable to access 'https://github.com/sunil996/Practice_repo.git/': Could not resolve host: github.com
+PS C:\practise repo copy\practice_repo>
